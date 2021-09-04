@@ -2,8 +2,8 @@
 ![banner](Banner.png)
 
 
-<h2> Hi, I'm Alex Gamino! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/geslvCFM31sFW/giphy.gif?cid=ecf05e4703ltt6uif0ve6esgax5o5csgkpsph6m6i1hxwrhu&rid=giphy.gif&ct=g" width="280" >
+<h2> Hi, I'm Alex Gamino! <img src="https://media.giphy.com/media/geslvCFM31sFW/giphy.gif?cid=ecf05e4703ltt6uif0ve6esgax5o5csgkpsph6m6i1hxwrhu&rid=giphy.gif&ct=g" width="70"></h2>
+<img align='right' src="https://media.giphy.com/media/zntQzPQ7cfIic/giphy.gif?cid=ecf05e478vlz44b3oddzu4ortkx6aiqn9z845oniu2d99e47&rid=giphy.gif&ct=g" width="200" >
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
@@ -13,16 +13,16 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const eliVillalejos = {
+const alexGamino = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
+  pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
+  askMeAbout: [Cooking, The Weeknd, painting, creative coding],
   challenge: "I am honing my React skills and picking up Vue",
   funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  'I have a collection of teddy bears from different countries']
 }
 ```
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
