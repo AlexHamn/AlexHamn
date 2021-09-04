@@ -2,8 +2,8 @@
 
 
 <h2> Hi, I'm Alex Gamino! <img src="https://media.giphy.com/media/geslvCFM31sFW/giphy.gif?cid=ecf05e4703ltt6uif0ve6esgax5o5csgkpsph6m6i1hxwrhu&rid=giphy.gif&ct=g" width="70"></h2>
-<img align='right' src="https://media.giphy.com/media/zntQzPQ7cfIic/giphy.gif?cid=ecf05e478vlz44b3oddzu4ortkx6aiqn9z845oniu2d99e47&rid=giphy.gif&ct=g" width="200" >
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
+<img align='right' src="https://media.giphy.com/media/zntQzPQ7cfIic/giphy.gif?cid=ecf05e478vlz44b3oddzu4ortkx6aiqn9z845oniu2d99e47&rid=giphy.gif&ct=g" width="150" >
+<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/l4FGAOukC4PUwQdYA/giphy.gif?cid=ecf05e47e9v9t6ck3mb7epvw1oerz0r4nol12puxv5ax4jk2&rid=giphy.gif&ct=g" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gamino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-gamino-81aab3214/)](https://www.linkedin.com/in/alex-gamino-81aab3214/)
 
