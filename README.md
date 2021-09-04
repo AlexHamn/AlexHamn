@@ -3,7 +3,7 @@
 
 
 <h2> Hi, I'm Alex Gamino! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
-<img align='right' src="https://giphy.com/embed/geslvCFM31sFW" width="480" height="463">
+<img align='right' src="https://media.giphy.com/media/geslvCFM31sFW/giphy.gif?cid=ecf05e4703ltt6uif0ve6esgax5o5csgkpsph6m6i1hxwrhu&rid=giphy.gif&ct=g" width="280" >
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
