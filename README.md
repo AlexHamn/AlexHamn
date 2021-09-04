@@ -1,7 +1,11 @@
 ![banner](BannerN.png)
 
-![Visitor Count](https://profile-counter.glitch.me/{AlexHamn}/count.svg)
 
+<p align="center"> 
+  Visitor count<br>
+![Visitor Count](https://profile-counter.glitch.me/{AlexHamn}/count.svg)
+</p>
+  
 <img align='right' src="https://media.giphy.com/media/zntQzPQ7cfIic/giphy.gif?cid=ecf05e478vlz44b3oddzu4ortkx6aiqn9z845oniu2d99e47&rid=giphy.gif&ct=g" width="150" >
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/l4FGAOukC4PUwQdYA/giphy.gif?cid=ecf05e47e9v9t6ck3mb7epvw1oerz0r4nol12puxv5ax4jk2&rid=giphy.gif&ct=g" width="50"></p>
 
