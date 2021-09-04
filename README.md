@@ -24,19 +24,8 @@ const alexGamino = {
 ```
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHamn&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### This week I spent my time on<img src="https://media.giphy.com/media/3oxRmvU3GAJay6F60g/giphy.gif?cid=ecf05e47qhuj1tz8qnjdbx9ftdh43qk2v1vcb80kfuqccwwb&rid=giphy.gif&ct=g" width="40">
-
-<!--START_SECTION:waka-->
-```text
-JSX          10 hrs 6 mins   ███████████▓░░░░░░░░░░░░░   46.71 % 
-PHP          4 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 % 
-SCSS         3 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
-JavaScript   3 hrs 12 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-```
-<!--END_SECTION:waka-->
 <!--
 **AlexHamn/AlexHamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
