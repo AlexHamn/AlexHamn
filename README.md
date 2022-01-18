@@ -1,6 +1,3 @@
-![banner](#)
-
-
 <p align="left"> 
   Visitor count<br>
 </p>
