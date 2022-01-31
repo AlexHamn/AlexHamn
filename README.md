@@ -18,7 +18,7 @@ I'm a web developer who is passionate about making contributing to open-source m
 const alexGamino = {
   lookingFor: "Data scientist" || "Front-end developer",
   pronouns: ["he", "his"],
-  code: [Pythin, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
+  code: [Python, JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [Cooking, The Weeknd, painting, creative coding],
   challenge: "I am honing my Python skills and picking up Vue",
