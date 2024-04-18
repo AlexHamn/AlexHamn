@@ -29,5 +29,5 @@ const alexGamino = {
 ```
 [![AlexHamn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexHamn&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHamn&langs_count=6&theme=dark&layout=compact&size_weight=1&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHamn&langs_count=6&theme=dark&layout=compact&size_weight=0&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
 
