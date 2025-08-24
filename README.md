@@ -1,4 +1,8 @@
-# Hi! I'm Luis - Full Stack WebDev/Data Analyst :)
+# Hi! I'm Luis - Full Stack WebDev/Data Analyst :) 
+
+<a href="https://linkedin.com/in/luis-gamino">
+    <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linked In">
+</a>
 
 <p align="left"> 
   Visitor count<br>
