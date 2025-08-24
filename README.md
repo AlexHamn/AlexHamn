@@ -1,34 +1,45 @@
+# Hi! I'm Luis - Full Stack WebDev/Data Analyst :)
+
 <p align="left"> 
   Visitor count<br>
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{AlexHamn}/count.svg)
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Cursor" width="26px" src="https://avatars.githubusercontent.com/u/126759922?s=40&v=4" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NextJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Supabase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
+<img align="left" alt="Clerk" width="26px" src="https://avatars.githubusercontent.com/u/49538330?s=48&v=4" style="padding-right:10px;" />
+<img align="left" alt="Confluence" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Vercel" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenAPI" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="P5JS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/p5js/p5js-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" style="padding-right:10px;" />
+
+<br/>
 
 ---
-  
-<p><em>Remote Full-stack web developer ready for adventure</em></p>
 
 I'm a data scientist/web developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python, ReactJS, and Jamstack (JavaScript, APIs + Markup).
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Gamino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-gamino-81aab3214/)](https://www.linkedin.com/in/alex-gamino-81aab3214/)
 
-### <img src="https://media.giphy.com/media/HIx6TGDiRiQRq/giphy.gif?cid=ecf05e47mdbz6oq2245091acx30w7sdps0cr5nc6ppe3xs3x&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+## A little more about me...  
 
 ```javascript
 const alexGamino = {
